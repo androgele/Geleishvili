@@ -1,8 +1,9 @@
 function Main(){
     return(
-        <div>
-content 
-       </div>
+       
+<button type="button" class="btn btn-primary">Primary</button>
+
+
 
         );
 }
