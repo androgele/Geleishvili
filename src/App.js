@@ -1,12 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
-import Movie from './Movie';
+import Header from './Header';
+import Main from './Main';
+import Footer from './Footer';
 
 function App() {
   return (
     <div className="App">
-      <Movie/>
-      sat
+      <Header/>
+      <Main/>
+      <Footer/>
     </div>
   );
 }
